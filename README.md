@@ -6,6 +6,8 @@ Spring Data JPA example
 
 ### Usage
 
+Java 21
+
 See [test.http](./test.http) file for example requests.
 
 ### Commands
