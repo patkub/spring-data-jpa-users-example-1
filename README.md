@@ -1,5 +1,7 @@
 # users
 
+[![Build](https://github.com/patkub/spring-data-jpa-users-example-1/actions/workflows/build.yml/badge.svg)](https://github.com/patkub/spring-data-jpa-users-example-1/actions/workflows/build.yml)
+
 Spring Data JPA example
 
 ### Usage
