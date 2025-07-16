@@ -1,0 +1,14 @@
+### GET request to example server
+GET localhost:8080/users
+
+### Send POST request with json body for user
+POST localhost:8080/users
+Content-Type: application/json
+
+{
+  "username": "ddd"
+}
+
+###
+GET localhost:8080/users/1
+
