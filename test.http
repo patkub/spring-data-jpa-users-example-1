@@ -1,14 +1,17 @@
 ### GET request to example server
 GET localhost:8080/users
+Authorization: Basic admin password
 
 ### Send POST request with json body for user
 POST localhost:8080/users
+Authorization: Basic admin password
 Content-Type: application/json
 
 {
-  "username": "ddd"
+  "username": "patrick"
 }
 
 ###
 GET localhost:8080/users/1
+Authorization: Basic admin password
 

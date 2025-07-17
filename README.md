@@ -4,6 +4,10 @@
 
 Spring Data JPA example
 
+- Spring Data JPA
+- Basic HTTP Auth using Spring Security
+- WebMvcTest unit tests
+
 ### Usage
 
 Java 21
